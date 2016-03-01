@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project6_Fragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_txt">Haz click!</string>
+    <string name="top_txt">Top</string>
+    <string name="bottom_txt">Bottom</string>
+</resources>
